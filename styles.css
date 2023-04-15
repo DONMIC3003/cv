@@ -1,0 +1,61 @@
+/*************tag selectors*************************/
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+border-color: grey;
+border-height: 0$;
+border-style:dotted none none;
+border-width: 2px;
+width: 5%;
+}
+
+h1 {
+
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+ul {
+  color: #008080;
+}
+
+ol {
+  color: #d2691e;
+}
+
+table {
+  color: #32a1ce;
+}
+
+p {
+  color: ;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/************************ID selectors*************************/
+
+
+#heading {
+  color: orange;
+}
+#heading3 {
+  color: green;
+}
+#hhh {
+  color: brown;
+}
+#hhfS {
+  color: black;
+}
+/***********************class selectors*********************/
+.cirddcular {
+  border-radius: 100%;
+}
